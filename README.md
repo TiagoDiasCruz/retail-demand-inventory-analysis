@@ -30,6 +30,7 @@ Inventory decisions were being made without systematic demand analysis, creating
 
 **Full dataset:** [project_retail.xlsx](project_retail.xlsx)
 
+**Process Documentation:** [Journal_Entry.pdf](Journal_Entry.pdf) *(Detailed documentation of critical thinking, data cleaning, and technical decisions made during each project phase).*
 ---
 
 ## Key Findings
