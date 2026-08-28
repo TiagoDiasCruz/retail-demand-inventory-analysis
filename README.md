@@ -70,8 +70,9 @@ West leads in sales ($725,458) and order volume (1,611). Central shows a consist
 
 <p align="center">
   <img src="grafico4_regiao.jpg" width="700">
+  <br><br>
+  <img src="grafico4_regiao.png.jpg" width="700">
 </p>
-
 ---
 
 ## Recommendations
